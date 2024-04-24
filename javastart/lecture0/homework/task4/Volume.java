@@ -13,11 +13,11 @@ public class Volume {
 Результати розрахунків виведіть на екран.
          */
         final double PI = Math.PI;
-        double r = 14.0;
+        double R = 14.0;
         double h = 16.0;
-        double S = (2*PI*(r+h));
-        double v = (PI*r*r*h);
+        double V = (PI*Math.pow(R,2)*h);
+        double S = (2*PI* R *(R +h));
         System.out.println(S);
-        System.out.println(v);
+        System.out.println(V);
     }
 }

@@ -15,7 +15,7 @@ public class Circle {
          */
         final double PI = Math.PI;
         double r = 13.0;
-        double S = (PI*r*r);
+        double S = (PI*Math.pow(r,2));
         System.out.println(S);
     }
 }
