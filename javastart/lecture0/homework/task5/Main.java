@@ -10,13 +10,14 @@ public class Main {
 Створіть клас Main.
 Перевірте, чи можна створити змінні з такими іменами:
 uberflu? , _Identifier , \Identifier , &myVar , myVariab1le
+*/
 
-        */
-       // double uberflu? = 123;//
-       // double _Identifier = 35245;
+        //double uberflu? = 123;//
+        double _Identifier = 35245;
         //double \Identifier =6465434;//
         //double &myVar =4567654;//
-        //double myVariab1le =4567654;
-       // System.out.println(myVariab1le, _Identifier);
+        double myVariab1le =4567654;
+        //System.out.println(myVariab1le, _Identifier);
+
     }
 }
