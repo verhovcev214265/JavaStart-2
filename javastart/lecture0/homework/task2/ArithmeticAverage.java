@@ -13,6 +13,7 @@ public class ArithmeticAverage {
 відображення результату?
 
          */
+
         double a = 10.0;
         double b = 13.0;
         double c = 27.0;
